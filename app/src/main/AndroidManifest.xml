@@ -10,6 +10,7 @@
         android:label="@string/app_name"
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
+<<<<<<< HEAD
         android:theme="@style/Theme.ToDoList"
         tools:targetApi="31">
 
@@ -35,5 +36,9 @@
             </intent-filter>
         </activity>
     </application>
+=======
+        android:theme="@style/Theme.ToDoListApp"
+        tools:targetApi="31" />
+>>>>>>> 4ad39d22ae6e262a42a7a6d48c4ac404255d95a7
 
 </manifest>

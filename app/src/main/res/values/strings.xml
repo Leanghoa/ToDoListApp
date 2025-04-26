@@ -1,4 +1,5 @@
 <resources>
+<<<<<<< HEAD
     <string name="app_name">To Do List</string>
     <string-array name="months">
         <item>January</item>
@@ -18,3 +19,7 @@
 
 
 
+=======
+    <string name="app_name">ToDoListApp</string>
+</resources>
+>>>>>>> 4ad39d22ae6e262a42a7a6d48c4ac404255d95a7
